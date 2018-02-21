@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="cir_width">180dp</dimen>
+    <dimen name="cir_height">100dp</dimen>
+    <dimen name="cir_radius">40dp</dimen>
+    <dimen name="video_width">148dp</dimen>
+    <dimen name="video_height">180dp</dimen>
+    <dimen name="Top_margin">60dp</dimen>
+    <dimen name="card_top_margin">100dp</dimen>
+</resources>
